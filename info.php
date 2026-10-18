@@ -7,6 +7,8 @@
     </head>
 
     <body>
-
+        <div>
+            <h1>Informacion adicional</h1>
+        </div>
     </body>
 </html>
