@@ -11,7 +11,7 @@
 
   <header class="bg-white shadow">
     <div class="container mx-auto flex justify-between items-center p-4">
-      <h1 class="text-2xl font-bold text-blue-600">Mi Pagina Web</h1>
+        <h1 class="text-2xl font-bold text-blue-600">MiSitio</h1>
       <nav class="space-x-6">
         <a href="#" class="text-gray-700 hover:text-blue-600">Inicio</a>
         <a href="#" class="text-gray-700 hover:text-blue-600">Servicios</a>
@@ -67,11 +67,11 @@
         <h3 class="text-xl font-semibold">CSS3</h3>
         <p class="text-gray-600">Estilos avanzados y animaciones fluidas.</p>
       </div>
-      <div class="p-6 bg-white shadow rounded-lg">
+      <!--<div class="p-6 bg-white shadow rounded-lg">
         <i class="fab fa-react text-5xl text-cyan-500 mb-4"></i>
         <h3 class="text-xl font-semibold">React</h3>
         <p class="text-gray-600">Componentes reutilizables y UI eficiente.</p>
-      </div>
+      </div>-->
     </div>
   </section>
 
