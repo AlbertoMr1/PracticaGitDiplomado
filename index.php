@@ -67,11 +67,11 @@
         <h3 class="text-xl font-semibold">CSS3</h3>
         <p class="text-gray-600">Estilos avanzados y animaciones fluidas.</p>
       </div>
-      <!--<div class="p-6 bg-white shadow rounded-lg">
-        <i class="fab fa-react text-5xl text-cyan-500 mb-4"></i>
-        <h3 class="text-xl font-semibold">React</h3>
-        <p class="text-gray-600">Componentes reutilizables y UI eficiente.</p>
-      </div>-->
+      <div class="p-6 bg-white shadow rounded-lg">
+            <i class="fas fa-chart-line text-4xl text-blue-600 mb-4"></i>
+            <h3 class="text-xl font-bold mb-2">Escalable</h3>
+            <p>Preparado para crecer junto a las necesidades de tu negocio.</p>
+        </div>
     </div>
   </section>
 
