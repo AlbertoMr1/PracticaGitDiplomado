@@ -58,9 +58,9 @@
     </div>
     <div class="container mx-auto grid md:grid-cols-4 gap-8 text-center">
       <div class="p-6 bg-white shadow rounded-lg">
-        <i class="fab fa-html5 text-5xl text-orange-500 mb-4"></i>
-        <h3 class="text-xl font-semibold">HTML5</h3>
-        <p class="text-gray-600">Estructura semántica y moderna para la web.</p>
+        <i class="fas fa-headset text-4xl text-blue-600 mb-4"></i>
+        <h3 class="text-xl font-bold mb-2">Soporte</h3>
+        <p>Asistencia técnica dedicada para cualquier duda.</p>
       </div>
       <div class="p-6 bg-white shadow rounded-lg">
         <i class="fab fa-css3-alt text-5xl text-blue-500 mb-4"></i>
